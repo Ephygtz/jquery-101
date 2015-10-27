@@ -14,7 +14,7 @@
 		})
 		$("#btn2").click(function () {
 			// body...
-			$(".fade").fadeOut("slow");
+			$(".fade").fadeOut("slow" 0.5);
 		})
 
 		//Add a css class to elements Div
