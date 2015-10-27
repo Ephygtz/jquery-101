@@ -1,0 +1,22 @@
+.leftcontent {
+	background: #F44336;
+	width: 200px;
+	height: 300px;
+}
+
+.rightcontent {
+	background: #7B1FA2;
+	outline-color: #FFC107;
+	height: 100px;
+}
+
+.increasefont {
+	font-size: 24px;
+	background: red;
+	
+}
+.rightcontent {
+	background: #7B1FB5;
+	outline-color: #FFC107;
+	height: 100px;
+}
